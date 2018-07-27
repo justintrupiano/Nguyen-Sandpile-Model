@@ -1,7 +1,7 @@
 # nguyen-sandpile
 
 
-                CONTROLS 
+  KEYBOARD CONTROLS 
 
 Play / Pause Toggle:      p
 
