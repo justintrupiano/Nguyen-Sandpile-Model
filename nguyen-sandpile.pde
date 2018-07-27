@@ -1,19 +1,3 @@
-//
-//
-//
-//                 CONTROLS 
-//
-// Play / Pause Toggle:      p
-// Threshold:                1 - 8
-// Speed:                    9 (slower), 0 (faster)
-// Size of Cell:             - (smaller), + (larger)
-//
-//
-//
-//
-
-
-
 import controlP5.*;
 ControlP5 reset, influence, influenceInput, randomInfluence, randomFlip, highlightFlipped, viewLargeGraphs;
 
