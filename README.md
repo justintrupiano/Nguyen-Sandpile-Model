@@ -1,5 +1,6 @@
 # nguyen-sandpile
 
+An agent-based model of information and belief propagation through a simple social network.
 
 ## KEYBOARD CONTROLS 
 
